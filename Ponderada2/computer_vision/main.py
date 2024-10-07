@@ -6,7 +6,7 @@ import io
 
 app = fastapi.FastAPI()
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
-url = "http://10.128.0.104/image"
+url = "http://10.128.0.123/image"
 
 def download_image():
     response = requests.get(url)
