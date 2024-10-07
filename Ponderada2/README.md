@@ -30,4 +30,4 @@ pip3 install -r requirements.txt
 
 Como resultado, foi possível identificar uma face humana em tempo real, como exemplificado na imagem abaixo:
 
-![Resultado]("img/output.jpg)
+![Resultado]("./img/output.jpg)
